@@ -1,0 +1,3 @@
+Time with I/O = 0.000157
+
+Time without I/O= 0.000002
